@@ -5,6 +5,7 @@ html {
     font-size: 20px;
 }
 
+/*
 h1 {
     font-size: 2rem;
     color: magenta;
@@ -13,47 +14,23 @@ h1 {
         0px 10px 10px yellow,
         0px -10px 10px aqua;
 }
+*/
 
-h2 {
-    font-size: 1.5rem;
-    color: white;
+h1 {
+    font-size: 2rem;
+    color: green;
     text-shadow:
-        0.2px 0.2px 0px rgb(29, 100, 231),
-        0.4px 0.4px 0px rgb(29, 100, 231),
-        0.6px 0.6px 0px rgb(29, 100, 231),
-        0.8px 0.8px 0px rgb(29, 100, 231),
-        1px 1px 0px rgb(29, 100, 231),
-        1.2px 1.2px 0px rgb(29, 100, 231),
-        1.4px 1.4px 0px rgb(29, 100, 231),
-        1.6px 1.6px 0px rgb(29, 100, 231),
-        1.8px 1.8px 0px rgb(29, 100, 231),
-        2px 2px 0px rgb(29, 100, 231),
-        2.2px 2.2px 0px rgb(29, 100, 231),
-        2.4px 2.4px 0px rgb(29, 100, 231),
-        2.6px 2.6px 0px rgb(29, 100, 231),
-        2.8px 2.8px 0px rgb(29, 100, 231),
-
-        0px 0px 10px rgb(29, 100, 231);    
+        1px 1px 0px black, 
+        2px 2px 0px green,
+        3px 3px 0px black;
 }
 
 p {
     line-height: 1.5;
-    color: white;
+    color: black;
     text-shadow:
-        0.2px 0.2px 0px rgb(29, 100, 231),
-        0.4px 0.4px 0px rgb(29, 100, 231),
-        0.6px 0.6px 0px rgb(29, 100, 231),
-        0.8px 0.8px 0px rgb(29, 100, 231),
-        1px 1px 0px rgb(29, 100, 231),
-        1.2px 1.2px 0px rgb(29, 100, 231),
-        1.4px 1.4px 0px rgb(29, 100, 231),
-        1.6px 1.6px 0px rgb(29, 100, 231),
-        1.8px 1.8px 0px rgb(29, 100, 231),
-        2px 2px 0px rgb(29, 100, 231),
-        2.2px 2.2px 0px rgb(29, 100, 231),
-        2.4px 2.4px 0px rgb(29, 100, 231),
-        2.6px 2.6px 0px rgb(29, 100, 231),
-        2.8px 2.8px 0px rgb(29, 100, 231),
-
-        0px 0px 10px rgb(29, 100, 231); 
+        0.2px 0.2px 0px white,
+        0.4px 0.4px 0px black,
+        0.6px 0.6px 0px white,
+        0.8px 0.8px 0px black; 
 }
